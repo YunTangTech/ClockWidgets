@@ -6,4 +6,3 @@ Clock widget, a digital clock dynamically displayed on the mobile phone desktop 
 - Support seconds display and real-time refresh
 - Multiple theme styles
 - Hourly chime:Real human voice tells the time on the hour
-- 
